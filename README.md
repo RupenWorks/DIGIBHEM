@@ -22,11 +22,11 @@ Technologies Used:
 *Matplotlib / Seaborn
 
 Project Details
-1.Data Exploration: Analyzed and visualized the dataset to understand feature distributions and class separability.
-2.Data Preprocessing: Applied necessary preprocessing steps including scaling and splitting the data.
-3.Model Building: Implemented and evaluated various classification algorithms such as Logistic Regression, Decision Trees, and Random Forest.
-4.Evaluation: Assessed model performance using metrics such as accuracy, precision, recall, and F1-score.
-5.Results: Presented model results and insights.
+* Data Exploration: Analyzed and visualized the dataset to understand feature distributions and class separability.
+* Data Preprocessing: Applied necessary preprocessing steps including scaling and splitting the data.
+* Model Building: Implemented and evaluated various classification algorithms such as Logistic Regression, Decision Trees, and Random Forest.
+* Evaluation: Assessed model performance using metrics such as accuracy, precision, recall, and F1-score.
+* Results: Presented model results and insights.
 
 
 Results
