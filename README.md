@@ -14,12 +14,13 @@ Target: Iris species (Setosa, Versicolour, Virginica)
 
 Technologies Used:
 
-*Python
-*jupyter
-*Scikit-learn
-*Pandas
-*NumPy
-*Matplotlib / Seaborn
+* Python
+* jupyter
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
 Project Details
 * Data Exploration: Analyzed and visualized the dataset to understand feature distributions and class separability.
